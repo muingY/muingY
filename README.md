@@ -2,7 +2,7 @@
 
 ---
 
-### :memo:Task manage
+### :memo: | Task manage
 
 >**Todo**
 >- 임베디드 공부
@@ -15,7 +15,7 @@
 
 ---
 
-### :wrench:Skill list
+### :wrench: | Skill list
 
 >**[ Interest ]**
 >
