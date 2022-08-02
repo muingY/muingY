@@ -14,13 +14,13 @@
 ### :memo: | Task manage
 
 >**Todo**
->- 임베디드 공부
 >- 기존 도스기반 AAC Qt GUI 개발
 >- 학술논문작성법 수강
 
 >**Ongoing**
 >- ft_transcendence
 >- Qt 공부
+>- 임베디드 공부
 
 ---
 
