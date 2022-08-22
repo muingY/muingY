@@ -18,9 +18,9 @@
 >- 학술논문작성법 수강
 
 >**Ongoing**
->- ft_transcendence
 >- Qt 공부
 >- 임베디드 공부
+>- 42 exam
 
 ---
 
