@@ -32,6 +32,7 @@
 ><img alt="Qt" src ="https://img.shields.io/badge/Qt-41CD52.svg?&style=for-the-badge&logo=Qt&logoColor=white"/> <img alt="Android Studio" src ="https://img.shields.io/badge/AndroidStudio-3DDC84.svg?&style=for-the-badge&logo=AndroidStudio&logoColor=white"/>  
 ><img alt="Arduino" src ="https://img.shields.io/badge/Arduino-00979D.svg?&style=for-the-badge&logo=Arduino&logoColor=white"/> <img alt="Raspberrypi" src ="https://img.shields.io/badge/Raspberrypi-A22846.svg?&style=for-the-badge&logo=Raspberrypi&logoColor=white"/>
 
+
 >**[ Maintenance but less interest ]**
 >
 ><img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white"/> <img alt="Go" src ="https://img.shields.io/badge/Go-00ADD8.svg?&style=for-the-badge&logo=Go&logoColor=white"/>  
