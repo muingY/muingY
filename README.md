@@ -28,8 +28,8 @@
 
 >**[ Interest ]**
 >
-><img alt="C++" src ="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C%2b%2b&logoColor=white"/> <img alt="Kotlin" src ="https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=for-the-badge&logo=C%2b%2b&logoColor=white"/>  
-><img alt="Qt" src ="https://img.shields.io/badge/Qt-41CD52.svg?&style=for-the-badge&logo=Qt&logoColor=white"/> <img alt="Android Studio" src ="https://img.shields.io/badge/AndroidStudio-3DDC84.svg?&style=for-the-badge&logo=Qt&logoColor=white"/>  
+><img alt="C++" src ="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C%2b%2b&logoColor=white"/> <img alt="Kotlin" src ="https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=for-the-badge&logo=Kotlin&logoColor=white"/>  
+><img alt="Qt" src ="https://img.shields.io/badge/Qt-41CD52.svg?&style=for-the-badge&logo=Qt&logoColor=white"/> <img alt="Android Studio" src ="https://img.shields.io/badge/AndroidStudio-3DDC84.svg?&style=for-the-badge&logo=AndroidStudio&logoColor=white"/>  
 ><img alt="Arduino" src ="https://img.shields.io/badge/Arduino-00979D.svg?&style=for-the-badge&logo=Arduino&logoColor=white"/> <img alt="Raspberrypi" src ="https://img.shields.io/badge/Raspberrypi-A22846.svg?&style=for-the-badge&logo=Raspberrypi&logoColor=white"/>
 
 >**[ Maintenance but less interest ]**
