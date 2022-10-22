@@ -28,7 +28,8 @@
 
 >**[ Interest ]**
 >
-><img alt="C++" src ="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C%2b%2b&logoColor=white"/> <img alt="Qt" src ="https://img.shields.io/badge/Qt-41CD52.svg?&style=for-the-badge&logo=Qt&logoColor=white"/> <img alt="Unity" src ="https://img.shields.io/badge/Unity-FFFFFF.svg?&style=for-the-badge&logo=Unity&logoColor=black"/>  
+><img alt="C++" src ="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C%2b%2b&logoColor=white"/> <img alt="Kotlin" src ="https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=for-the-badge&logo=C%2b%2b&logoColor=white"/>  
+><img alt="Qt" src ="https://img.shields.io/badge/Qt-41CD52.svg?&style=for-the-badge&logo=Qt&logoColor=white"/> <img alt="Android Studio" src ="https://img.shields.io/badge/AndroidStudio-3DDC84.svg?&style=for-the-badge&logo=Qt&logoColor=white"/>  
 ><img alt="Arduino" src ="https://img.shields.io/badge/Arduino-00979D.svg?&style=for-the-badge&logo=Arduino&logoColor=white"/> <img alt="Raspberrypi" src ="https://img.shields.io/badge/Raspberrypi-A22846.svg?&style=for-the-badge&logo=Raspberrypi&logoColor=white"/>
 
 >**[ Maintenance but less interest ]**
@@ -40,5 +41,5 @@
 
 >**[ Old ]**
 >
-><img alt="Unreal" src ="https://img.shields.io/badge/Unreal-0E1128.svg?&style=for-the-badge&logo=UnrealEngine&logoColor=white"/> <img alt="Opengl" src ="https://img.shields.io/badge/OpenGL-5586A4.svg?&style=for-the-badge&logo=Opengl&logoColor=white"/>  
+><img alt="Unity" src ="https://img.shields.io/badge/Unity-FFFFFF.svg?&style=for-the-badge&logo=Unity&logoColor=black"/> <img alt="Unreal" src ="https://img.shields.io/badge/Unreal-0E1128.svg?&style=for-the-badge&logo=UnrealEngine&logoColor=white"/> <img alt="Opengl" src ="https://img.shields.io/badge/OpenGL-5586A4.svg?&style=for-the-badge&logo=Opengl&logoColor=white"/>  
 ><img alt="Blender" src ="https://img.shields.io/badge/Blender-F5792A.svg?&style=for-the-badge&logo=Blender&logoColor=white"/> <img alt="Sketchup" src ="https://img.shields.io/badge/Sketchup-005F9E.svg?&style=for-the-badge&logo=Sketchup&logoColor=white"/>
