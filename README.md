@@ -35,10 +35,10 @@
 
 >**[ Maintenance but less interest ]**
 >
-><img alt="Go" src ="https://img.shields.io/badge/Go-00ADD8.svg?&style=for-the-badge&logo=Go&logoColor=white"/>  
-><img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white"/> <img alt="Typescript" src ="https://img.shields.io/badge/Typescript-3178C6.svg?&style=for-the-badge&logo=Typescript&logoColor=white"/>  
-><img alt="Android Studio" src ="https://img.shields.io/badge/AndroidStudio-3DDC84.svg?&style=for-the-badge&logo=AndroidStudio&logoColor=white"/> <img alt="Kotlin" src ="https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=for-the-badge&logo=Kotlin&logoColor=white"/>  
-><img alt="PremierePro" src ="https://img.shields.io/badge/Adobe_Premiere_Pro-31A8FF.svg?&style=for-the-badge&logo=AdobePremierePro&logoColor=white"/> <img alt="Photoshop" src ="https://img.shields.io/badge/Adobe_Photoshop-31A8FF.svg?&style=for-the-badge&logo=AdobePhotoshop&logoColor=white"/>  
+><img alt="Go" src ="https://img.shields.io/badge/Go-00ADD8.svg?&style=for-the-badge&logo=Go&logoColor=white"/><br/>
+><img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white"/> <img alt="Typescript" src ="https://img.shields.io/badge/Typescript-3178C6.svg?&style=for-the-badge&logo=Typescript&logoColor=white"/><br/>
+><img alt="Android Studio" src ="https://img.shields.io/badge/AndroidStudio-3DDC84.svg?&style=for-the-badge&logo=AndroidStudio&logoColor=white"/> <img alt="Kotlin" src ="https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=for-the-badge&logo=Kotlin&logoColor=white"/><br/>
+><img alt="PremierePro" src ="https://img.shields.io/badge/Adobe_Premiere_Pro-31A8FF.svg?&style=for-the-badge&logo=AdobePremierePro&logoColor=white"/> <img alt="Photoshop" src ="https://img.shields.io/badge/Adobe_Photoshop-31A8FF.svg?&style=for-the-badge&logo=AdobePhotoshop&logoColor=white"/><br/>
 
 
 >**[ Old ]**
