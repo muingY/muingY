@@ -15,12 +15,11 @@
 
 >**Todo**
 >- 기존 도스기반 AAC Qt GUI 개발
->- 연구개발 및 졸논 작성
->- 유니티 재활치료
+>- Simple embedded project
 
 >**Ongoing**
->- Qt 공부
->- 42 exam
+>- 42 outer project
+>- Arm embedded system study
 
 ---
 
