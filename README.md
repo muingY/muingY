@@ -4,7 +4,8 @@
 
 안녕하세요!<br/>
 42Seoul에서 공부하며 이것저것 해보고 있는 머잉입니다.<br/>
-지금은 임베디드 개발을 공부하고있어요.
+요즘은 Flutter를 사용한 앱 개발과 임베디드를 공부하고있어요.<br/>
+취미겸 스택 유지를 위해 게임 개발도 조금씩 하고있습니다.
 
 찾아주셔서 감사합니다.
 작게나마 도움이 된다면 좋겠습니다!
@@ -14,12 +15,11 @@
 ### :memo: | Task manage
 
 >**Todo**
->- 기존 도스기반 AAC Qt GUI 개발
->- Simple embedded project
+>- 비행 시뮬 용도 HID 개발
 
 >**Ongoing**
->- 42 outer project
->- Arm embedded system study
+>- Arm cortex embedded study
+>- 무드등 개발
 
 ---
 
@@ -29,7 +29,7 @@
 >
 ><img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white"/> <img alt="C++" src ="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C%2b%2b&logoColor=white"/>  
 ><img alt="Arm" src ="https://img.shields.io/badge/Arm-0091BD.svg?&style=for-the-badge&logo=Arm&logoColor=white"/> <img alt="Arduino" src ="https://img.shields.io/badge/Arduino-00979D.svg?&style=for-the-badge&logo=Arduino&logoColor=white"/> <img alt="Raspberrypi" src ="https://img.shields.io/badge/Raspberrypi-A22846.svg?&style=for-the-badge&logo=Raspberrypi&logoColor=white"/>  
-><img alt="Qt" src ="https://img.shields.io/badge/Qt-41CD52.svg?&style=for-the-badge&logo=Qt&logoColor=white"/>  
+><img alt="Flutter" src ="https://img.shields.io/badge/Flutter-02569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white"/> <img alt="Dart" src ="https://img.shields.io/badge/Dart-0175C2.svg?&style=for-the-badge&logo=Dart&logoColor=white"/>  
 
 
 >**[ Maintenance but less interest ]**
