@@ -15,11 +15,11 @@
 ### :memo: | Task manage
 
 >**Todo**
->- Rust로 임베디드(STM32) 및 백엔드 개발해보기
+>- 유튜브 기획 및 기반 작업
+>- 첫 영상 제작
 
 >**Ongoing**
->- 무드등 개발
->- Rust 공부
+>- Rust embedded STM32L4 HID 개발
 
 ---
 
@@ -28,8 +28,9 @@
 >**[ Interest ]**
 >
 ><img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white"/> <img alt="C++" src ="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C%2b%2b&logoColor=white"/> <img alt="Rust" src ="https://img.shields.io/badge/Rust-000000.svg?&style=for-the-badge&logo=Rust&logoColor=white"/>  
-><img alt="Arm" src ="https://img.shields.io/badge/Arm-0091BD.svg?&style=for-the-badge&logo=Arm&logoColor=white"/> <img alt="Arduino" src ="https://img.shields.io/badge/Arduino-00979D.svg?&style=for-the-badge&logo=Arduino&logoColor=white"/> <img alt="Raspberrypi" src ="https://img.shields.io/badge/Raspberrypi-A22846.svg?&style=for-the-badge&logo=Raspberrypi&logoColor=white"/>  
-><img alt="Flutter" src ="https://img.shields.io/badge/Flutter-02569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white"/> <img alt="Dart" src ="https://img.shields.io/badge/Dart-0175C2.svg?&style=for-the-badge&logo=Dart&logoColor=white"/>    
+><img alt="Arm" src ="https://img.shields.io/badge/Arm-0091BD.svg?&style=for-the-badge&logo=Arm&logoColor=white"/> <img alt="Raspberrypi" src ="https://img.shields.io/badge/Raspberrypi-A22846.svg?&style=for-the-badge&logo=Raspberrypi&logoColor=white"/>  
+><img alt="Flutter" src ="https://img.shields.io/badge/Flutter-02569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white"/> <img alt="Dart" src ="https://img.shields.io/badge/Dart-0175C2.svg?&style=for-the-badge&logo=Dart&logoColor=white"/>  
+><img alt="Fusion360" src ="https://img.shields.io/badge/Fusion360-ed742e.svg?&style=for-the-badge&logo=Autodesk&logoColor=white"/>    
 
 
 >**[ Maintenance but less interest ]**
