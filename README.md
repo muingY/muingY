@@ -4,28 +4,23 @@
 
 안녕하세요!<br/>
 42Seoul에서 공부하며 이것저것 해보고 있는 머잉입니다.<br/>
-요즘은 Rust를 공부해보며 백엔드와 임베디드에 관심을 가지고 있어요.<br/>
-취미겸 스택 유지를 위해 게임 개발도 정말 조금씩 하고있습니다.
+요즘은 사이버 보안 분야에서 모의 해킹과 같은 레드팀 직무에 목표를 두고 공부하고있어요.
 
 찾아주셔서 감사합니다.
 작게나마 도움이 된다면 좋겠습니다!
 
 ---
 
-### :memo: | Task manage
+### :memo: | Current goal
 
->**Todo**
->- 유튜브 기획 및 기반 작업
->- 첫 영상 제작
-
->**Ongoing**
->- Rust embedded STM32L4 HID 개발
+>- 침투 테스트(offensive security) 및 모의해킹로 취직하기
+>- OSCP 자격 취득하기
 
 ---
 
 ### :wrench: | Skill list
 
->**[ Interest ]**
+>**[ Interest recently ]**
 >
 ><img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white"/> <img alt="C++" src ="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C%2b%2b&logoColor=white"/> <img alt="Rust" src ="https://img.shields.io/badge/Rust-000000.svg?&style=for-the-badge&logo=Rust&logoColor=white"/>  
 ><img alt="Arm" src ="https://img.shields.io/badge/Arm-0091BD.svg?&style=for-the-badge&logo=Arm&logoColor=white"/> <img alt="Raspberrypi" src ="https://img.shields.io/badge/Raspberrypi-A22846.svg?&style=for-the-badge&logo=Raspberrypi&logoColor=white"/>  
@@ -33,7 +28,7 @@
 ><img alt="Fusion360" src ="https://img.shields.io/badge/Fusion360-ed742e.svg?&style=for-the-badge&logo=Autodesk&logoColor=white"/>    
 
 
->**[ Maintenance but less interest ]**
+>**[ Maintenance ]**
 >
 ><img alt="Go" src ="https://img.shields.io/badge/Go-00ADD8.svg?&style=for-the-badge&logo=Go&logoColor=white"/><br/>
 ><img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white"/> <img alt="Typescript" src ="https://img.shields.io/badge/Typescript-3178C6.svg?&style=for-the-badge&logo=Typescript&logoColor=white"/><br/>
